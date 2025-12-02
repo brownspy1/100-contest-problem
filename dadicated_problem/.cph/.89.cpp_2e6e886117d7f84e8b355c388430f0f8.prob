@@ -1,0 +1,1 @@
+{"name":"Local: 89","url":"c:\\Users\\Brownspy1\\Desktop\\100 contest problem\\dadicated_problem\\89.cpp","tests":[{"id":1764663516856,"input":"3\nA 30\nB 25 \nC 35","output":"B 25 \nA 30\nC 35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Brownspy1\\Desktop\\100 contest problem\\dadicated_problem\\89.cpp","group":"local","local":true}
