@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int n,sum=0,digit,copy;cin>>n;
     copy=n;
-
+    
     for (;n;)
     {
         digit = n%10;
