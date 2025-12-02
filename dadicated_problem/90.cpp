@@ -6,5 +6,6 @@ int main(){
     int f;cin>>f;
 
     float ans = c*(9.0/5.0)+f;
+    cout<<ans;
     return 0;
 }
